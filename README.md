@@ -77,6 +77,8 @@ cd frontend
 npm run start
 ```
 4. Website is ready!
+
+   
    ![dlp](https://github.com/Alyan47/Deep-Learning-Project/assets/94675149/a756e391-aa7a-4758-ae4f-5909cdb79d0a)
 
 
